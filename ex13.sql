@@ -1,0 +1,3 @@
+ALTER TABLE person ADD COLUMN is_dead INTEGER;
+ALTER TABLE person ADD COLUMN phone_number INTEGER;
+ALTER TABLE person ADD COLUMN salary 
